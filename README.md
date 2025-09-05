@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RenKib/RenKib/blob/main/assets/banner.png?raw=true" 
+  <img src="https://github.com/RenKib/RenKib/blob/main/assets/banner.png?raw=true&v=2" 
        alt="Renato Galveia — Full-Stack Developer in Progress" />
 </p>
 
