@@ -20,7 +20,6 @@ Always passionate about computers and games, I’ve been investing seriously in 
 ## 🚀 Projects (in progress)
 - 🌐 Personal Portfolio (GitHub Pages)  
 - ✅ To-Do List (JavaScript + LocalStorage)  
-- ⛅ Weather App (public API + fetch)
 
 ---
 
