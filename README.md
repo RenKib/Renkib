@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Renato Galveia — Full-Stack in progress" />
+  <img src="https://github.com/RenKib/RenKib/blob/main/assets/banner.png?raw=true" 
+       alt="Renato Galveia — Full-Stack in progress" />
 </p>
 
 <h1 align="center">Hi, I'm Renato 👋</h1>
